@@ -57,3 +57,7 @@ You may need to shut down and restart powershell and/or consoles
 Ensuring Chocolatey commands are on the path
 Ensuring chocolatey.nupkg is in the lib folder
 PS C:\ProgramData>
+
+
+
+choco list --local-only
