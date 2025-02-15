@@ -61,3 +61,9 @@ PS C:\ProgramData>
 
 
 choco list --local-only
+
+How to Install Only nmap:
+If you only want nmap and none of these other packages, you can ensure that only nmap is installed by explicitly specifying the package, like this:
+
+choco install nmap --only-package
+
